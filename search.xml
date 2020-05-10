@@ -3,9 +3,7 @@
   <entry>
     <title>MIDI控制器一览表</title>
     <url>/2020/05/09/MIDI%E6%8E%A7%E5%88%B6%E5%99%A8%E4%B8%80%E8%A7%88%E8%A1%A8/</url>
-    <content><![CDATA[<p>===</p>
-<p>MIDI控制器一览表</p>
-<p>0 音色库选择MSB</p>
+    <content><![CDATA[<h2 id="MIDI控制器一览表"><a href="#MIDI控制器一览表" class="headerlink" title="MIDI控制器一览表"></a>MIDI控制器一览表</h2><p>0 音色库选择MSB</p>
 <p>1 颤音深度（粗调）</p>
 <a id="more"></a>
 <p>2 呼吸（吹管）控制器（粗调）</p>
@@ -92,6 +90,15 @@
 ]]></content>
       <tags>
         <tag>about</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FL 常用快捷键</title>
+    <url>/2020/05/10/FL-%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>FL步进器中双击全选<br>alt+点击 回到原始位置<br>ctrl+推动 微调<br>钢琴窗中按住ALT键可以匡选<br>按住contral再按键盘就可以选择所有的某个音<br>框选并按住shift移动可以整体复制框选内容<br>按住shift键加上下可以半音上下移动<br>按住contral加上下 可以上下移动8度<br>alt键自由在钢琴窗中调节长度</p>
+]]></content>
+      <tags>
+        <tag>MIDI</tag>
       </tags>
   </entry>
 </search>
