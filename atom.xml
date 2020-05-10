@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-09T07:54:36.000Z</updated>
+  <updated>2020-05-10T03:15:11.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/05/09/MIDI%E6%8E%A7%E5%88%B6%E5%99%A8%E4%B8%80%E8%A7%88%E8%A1%A8/"/>
     <id>http://yoursite.com/2020/05/09/MIDI%E6%8E%A7%E5%88%B6%E5%99%A8%E4%B8%80%E8%A7%88%E8%A1%A8/</id>
     <published>2020-05-09T05:39:02.000Z</published>
-    <updated>2020-05-09T07:54:36.000Z</updated>
+    <updated>2020-05-10T03:15:11.000Z</updated>
     
     <content type="html"><![CDATA[<p>===</p><p>MIDI控制器一览表</p><p>0 音色库选择MSB</p><p>1 颤音深度（粗调）</p><a id="more"></a><p>2 呼吸（吹管）控制器（粗调）</p><p>3 N/A</p><p>4 踏板控制器（粗调）</p><p>5 连滑音速度（粗调）</p><p>6 高位元组数据输入（Data Entry MSB）</p><p>7 主音量（粗调）</p><p>8 平衡控制（粗调）</p><p>9 N/A</p><p>10 声像调整（粗调）</p><p>11 情绪控制器（粗调）</p><p>12-15 N/A</p><p>16-19 一般控制器</p><p>20-31 N/A</p><p>32 插口选择</p><p>33 颤音速度（微调）</p><p>34 呼吸（吹管）控制器（微调）</p><p>35 N/A</p><p>36 踏板控制器（微调）</p><p>37 连滑音速度（微调）</p><p>38 低位元组数据输入（Data Entry LSB）</p><p>39 主音量（微调）</p><p>40 平衡控制（微调）</p><p>41 N/A</p><p>42 声像调整（微调）</p><p>43 情绪控制器（微调）</p><p>44 效果FX控制1（微调）</p><p>45 效果FX控制2（微调）</p><p>46-63 N/A</p><p>64 保持音踏板1（延音踏板）</p><p>65 滑音（在音头前加入上或下滑音做装饰音）</p><p>66 持续音</p><p>67 弱音踏板</p><p>68 连滑音踏板控制器</p><p>69 保持音踏板2</p><p>70 变调</p><p>71 音色</p><p>72 放音时值</p><p>73 起音时值</p><p>74 亮音</p><p>75-79 声音控制</p><p>80-83 一般控制器（#5-#8）</p><p>84 连滑音控制</p><p>85-90 N/A</p><p>91 混响效果深度</p><p>92 （未定义的效果深度）</p><p>93 合唱效果深度</p><p>94 （未定义的效果深度）</p><p>95 移调器深度</p><p>96 数据累增</p><p>97 数据递减</p><p>98 未登记的低元组数值（NRPN LSB）</p><p>99 未登记的高元组数值（NRPN MSB）</p><p>100 已登记的低元组数值（RPN LSB）</p><p>101 已登记的高元组数值（RPN MSB）</p><p>102-119 N/A</p><p>120 关闭所有声音</p><p>121 关闭所有控制器</p><p>122 本地键盘开关</p><p>123 关闭所有音符</p><p>124 Omni模式关闭</p><p>125 Omni模式开启</p><p>126 单音模式</p><p>127 复音模式</p>]]></content>
     
@@ -36,6 +36,8 @@
     
     
     
+      <category term="MIDI" scheme="http://yoursite.com/tags/MIDI/"/>
+    
   </entry>
   
   <entry>
@@ -43,7 +45,7 @@
     <link href="http://yoursite.com/2020/05/09/Who-Am-I/"/>
     <id>http://yoursite.com/2020/05/09/Who-Am-I/</id>
     <published>2020-05-09T00:48:54.000Z</published>
-    <updated>2020-05-09T13:21:18.000Z</updated>
+    <updated>2020-05-10T03:15:16.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Chenming-Zhang"><a href="#Chenming-Zhang" class="headerlink" title="Chenming Zhang"></a>Chenming Zhang</h2><p>LECTURER. COMPOSER.MUSIC PRODUCER<br>Music College, Zhoukou Normal University<br>9 Wenchang Street Zhoukou, China Postcode-466001<br> Fax: (+86) 0394-8178000<br>Email <a href="mailto:zcm911597896@gmail.com">zcm911597896@gmail.com</a><br>GITHUB <a href="https://github.com/vincentzcm" target="_blank" rel="noopener">https://github.com/vincentzcm</a><br>BLOG <a href="https://vincentzcm.github.io" target="_blank" rel="noopener">https://vincentzcm.github.io</a><br>E-MAGZINE <a href="https://njarti.academia.edu/zhangchenming" target="_blank" rel="noopener">https://njarti.academia.edu/zhangchenming</a></p><a id="more"></a><hr><h2 id="EDUCATION"><a href="#EDUCATION" class="headerlink" title="EDUCATION"></a>EDUCATION</h2><p>2016-2013  Master of Music, Composition<br>Nanjing University of the Arts<br>Jianqin Feng Scholarship</p><p>2011-2013  Bachelor of Music,Composition<br>Luoyang Normal University</p><p>2008-2011  College Degree, Music<br>Zhengzhou Vocational College of Information Technology</p><hr><h2 id="APPOINTMENTS"><a href="#APPOINTMENTS" class="headerlink" title="APPOINTMENTS"></a>APPOINTMENTS</h2><p>2017-current     Lecturer. Music College,Zhoukou Normal University<br>Office of Music Theory</p><p>2016-2017       Lecturer. Lijiang College, Guangxi Normal University<br>Office of Electronic Music</p><p>2013-2016       Assistant Researcher<br>Media Center of Nanjing University of the Arts</p>]]></content>
     
@@ -54,6 +56,8 @@
     </summary>
     
     
+    
+      <category term="about" scheme="http://yoursite.com/tags/about/"/>
     
   </entry>
   

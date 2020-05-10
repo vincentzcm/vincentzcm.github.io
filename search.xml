@@ -72,6 +72,9 @@
 <p>126 单音模式</p>
 <p>127 复音模式</p>
 ]]></content>
+      <tags>
+        <tag>MIDI</tag>
+      </tags>
   </entry>
   <entry>
     <title>Who Am I</title>
@@ -87,5 +90,8 @@
 <p>2016-2017       Lecturer. Lijiang College, Guangxi Normal University<br>Office of Electronic Music</p>
 <p>2013-2016       Assistant Researcher<br>Media Center of Nanjing University of the Arts</p>
 ]]></content>
+      <tags>
+        <tag>about</tag>
+      </tags>
   </entry>
 </search>
