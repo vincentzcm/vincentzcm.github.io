@@ -19,6 +19,22 @@
       </tags>
   </entry>
   <entry>
+    <title>Audition CC</title>
+    <url>/2020/05/10/Audition-CC/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">Enter Password</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="648e77f8b68d4aa5433f84d63f52258b0ef2e32f431dd4d1267b364dcb8d385d">464700ef76fa47fc5eeff233b68ccb659293e3f63f8f202a3fc7e8656f56b9c351b785e8f82b4546478e85481c38fedb2e3daf0a47335e91061e2837db3806119b5a2f769a269b3d7ab0ebf9f509c01c191b26ab84fd517f2d87d3ab2d6a2905cd4a89056b3e8f9fdaa51b8164526d43293f4350e5385e1c499a1a13c732f031948f9fc373622302c97f1d685293fa9a65466c97fc0bf400719ed5e6e1e2e08c7961a4de8102869f9fb52a83028dc5075f05cb47f8d2f27e2a1e55766dbb61d680bfd512c3c07987cdd5b09b254948d0fd92cbee4dee18eee5ef727a4640352f2cd6f0b54ec92b6193e5abd66245b0bae4d0f8c0bccc19e10f2c80b9effcf86ac528d8d5880885eb9a36f3b8f67ad8234fc9c9d2f0f4aa14899608db1085078cfbd6f0a329eee169f3b035d75713ec2e9adf90abb29ea819f137b730b42b051bce2d005991b0301b7ace71a973cf26f7f4d73014c1b272583871e8d21679bd0797740b79d640b25694487416426851ac17d22f1584299b48635066e480726fa8bf45448194d8e0f1f250bfbfe693ceb1e9d633889ef9ac32018a89510036657c3fa08c3871633600a9deacd9fb4beb4034f5c98ee0ffabbcf6311a852cb5c65e6ec6792448546859d17634abafacddc60c762ca17fdd590fd947e44b4506ed4ec07c80c2f459fe7f0a520ccf2a27d27a9b4b131c4c3d6a8aa8ebf7017b79c3ce</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>software</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FL 常用快捷键</title>
     <url>/2020/05/10/FL-%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
     <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>FL步进器中双击全选<br>alt+点击 回到原始位置<br>ctrl+推动 微调<br>钢琴窗中按住ALT键可以匡选<br>按住contral再按键盘就可以选择所有的某个音<br>框选并按住shift移动可以整体复制框选内容<br>按住shift键加上下可以半音上下移动<br>按住contral加上下 可以上下移动8度<br>alt键自由在钢琴窗中调节长度</p>
