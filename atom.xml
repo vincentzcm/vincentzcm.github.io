@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chenming Zhang&#39;s BLOG</title>
+  <title>INTERVAL CYCLES</title>
   
-  
+  <subtitle>Chenming Zhang&#39;s BLOG</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
