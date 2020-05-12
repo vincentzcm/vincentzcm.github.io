@@ -63,9 +63,9 @@
     <link href="http://yoursite.com/2020/05/10/Audition-CC/"/>
     <id>http://yoursite.com/2020/05/10/Audition-CC/</id>
     <published>2020-05-10T13:01:18.000Z</published>
-    <updated>2020-05-10T23:46:46.000Z</updated>
+    <updated>2020-05-12T22:59:25.000Z</updated>
     
-    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Enter Password</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="648e77f8b68d4aa5433f84d63f52258b0ef2e32f431dd4d1267b364dcb8d385d">464700ef76fa47fc5eeff233b68ccb659293e3f63f8f202a3fc7e8656f56b9c351b785e8f82b4546478e85481c38fedb2e3daf0a47335e91061e2837db3806119b5a2f769a269b3d7ab0ebf9f509c01c191b26ab84fd517f2d87d3ab2d6a2905cd4a89056b3e8f9fdaa51b8164526d43293f4350e5385e1c499a1a13c732f031948f9fc373622302c97f1d685293fa9a65466c97fc0bf400719ed5e6e1e2e08c7961a4de8102869f9fb52a83028dc5075f05cb47f8d2f27e2a1e55766dbb61d680bfd512c3c07987cdd5b09b254948d0fd92cbee4dee18eee5ef727a4640352f2cd6f0b54ec92b6193e5abd66245b0bae4d0f8c0bccc19e10f2c80b9effcf86ac528d8d5880885eb9a36f3b8f67ad8234fc9c9d2f0f4aa14899608db1085078cfbd6f0a329eee169f3b035d75713ec2e9adf90abb29ea819f137b730b42b051bce2d005991b0301b7ace71a973cf26f7f4d73014c1b272583871e8d21679bd0797740b79d640b25694487416426851ac17d22f1584299b48635066e480726fa8bf45448194d8e0f1f250bfbfe693ceb1e9d633889ef9ac32018a89510036657c3fa08c3871633600a9deacd9fb4beb4034f5c98ee0ffabbcf6311a852cb5c65e6ec6792448546859d17634abafacddc60c762ca17fdd590fd947e44b4506ed4ec07c80c2f459fe7f0a520ccf2a27d27a9b4b131c4c3d6a8aa8ebf7017b79c3ce</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">Enter Password</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="600b7cdf0b5bf13c7ed75ed62eb49345d7cb7bb17f79b39857da9387cbd1a757">cd614f08be2ef277dec2265faa1df9a3711eb1c11306bbd08b91a84092a2de87837af7188fd25ccfda40de4943c3eeda194f06ac113da09dc3008ded0b58f4c854cd82771ec97ce6b5a9eb0d58401dc9888030244de3238a2cc3d64425fc0fbc3b29d470ac3d6de9e4a5c7cb4775603ae40012472ed8f3e1b4914afd00379fa5b0dfe648a544768560fdb8f0cd0526c2fa8c9775dfa64abeef8aa99235767dc1844839f669ce07dc3a60396d85b5cdbc</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
     
@@ -105,65 +105,19 @@
     <link href="http://yoursite.com/2020/05/09/MIDI%E6%8E%A7%E5%88%B6%E5%99%A8%E4%B8%80%E8%A7%88%E8%A1%A8/"/>
     <id>http://yoursite.com/2020/05/09/MIDI%E6%8E%A7%E5%88%B6%E5%99%A8%E4%B8%80%E8%A7%88%E8%A1%A8/</id>
     <published>2020-05-09T05:39:02.000Z</published>
-    <updated>2020-05-10T12:57:37.000Z</updated>
+    <updated>2020-05-12T22:59:30.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="MIDI控制器一览表"><a href="#MIDI控制器一览表" class="headerlink" title="MIDI控制器一览表"></a>MIDI控制器一览表</h2><p>0 音色库选择MSB</p><p>1 颤音深度（粗调）</p><a id="more"></a><p>2 呼吸（吹管）控制器（粗调）</p><p>3 N/A</p><p>4 踏板控制器（粗调）</p><p>5 连滑音速度（粗调）</p><p>6 高位元组数据输入（Data Entry MSB）</p><p>7 主音量（粗调）</p><p>8 平衡控制（粗调）</p><p>9 N/A</p><p>10 声像调整（粗调）</p><p>11 情绪控制器（粗调）</p><p>12-15 N/A</p><p>16-19 一般控制器</p><p>20-31 N/A</p><p>32 插口选择</p><p>33 颤音速度（微调）</p><p>34 呼吸（吹管）控制器（微调）</p><p>35 N/A</p><p>36 踏板控制器（微调）</p><p>37 连滑音速度（微调）</p><p>38 低位元组数据输入（Data Entry LSB）</p><p>39 主音量（微调）</p><p>40 平衡控制（微调）</p><p>41 N/A</p><p>42 声像调整（微调）</p><p>43 情绪控制器（微调）</p><p>44 效果FX控制1（微调）</p><p>45 效果FX控制2（微调）</p><p>46-63 N/A</p><p>64 保持音踏板1（延音踏板）</p><p>65 滑音（在音头前加入上或下滑音做装饰音）</p><p>66 持续音</p><p>67 弱音踏板</p><p>68 连滑音踏板控制器</p><p>69 保持音踏板2</p><p>70 变调</p><p>71 音色</p><p>72 放音时值</p><p>73 起音时值</p><p>74 亮音</p><p>75-79 声音控制</p><p>80-83 一般控制器（#5-#8）</p><p>84 连滑音控制</p><p>85-90 N/A</p><p>91 混响效果深度</p><p>92 （未定义的效果深度）</p><p>93 合唱效果深度</p><p>94 （未定义的效果深度）</p><p>95 移调器深度</p><p>96 数据累增</p><p>97 数据递减</p><p>98 未登记的低元组数值（NRPN LSB）</p><p>99 未登记的高元组数值（NRPN MSB）</p><p>100 已登记的低元组数值（RPN LSB）</p><p>101 已登记的高元组数值（RPN MSB）</p><p>102-119 N/A</p><p>120 关闭所有声音</p><p>121 关闭所有控制器</p><p>122 本地键盘开关</p><p>123 关闭所有音符</p><p>124 Omni模式关闭</p><p>125 Omni模式开启</p><p>126 单音模式</p><p>127 复音模式</p>]]></content>
+    <content type="html"><![CDATA[<p>0 音色库选择MSB<br>1 颤音深度（粗调）<br>2 呼吸（吹管）控制器（粗调）<br>3 N/A<br>4 踏板控制器（粗调）<br>5 连滑音速度（粗调）</p><a id="more"></a><p>6 高位元组数据输入（Data Entry MSB）<br>7 主音量（粗调）<br>8 平衡控制（粗调）<br>9 N/A<br>10 声像调整（粗调）<br>11 情绪控制器（粗调）<br>12-15 N/A<br>16-19 一般控制器<br>20-31 N/A<br>32 插口选择<br>33 颤音速度（微调）<br>34 呼吸（吹管）控制器（微调）<br>35 N/A<br>36 踏板控制器（微调）<br>37 连滑音速度（微调）<br>38 低位元组数据输入（Data Entry LSB）<br>39 主音量（微调）<br>40 平衡控制（微调）<br>41 N/A<br>42 声像调整（微调）<br>43 情绪控制器（微调）<br>44 效果FX控制1（微调）<br>45 效果FX控制2（微调）<br>46-63 N/A<br>64 保持音踏板1（延音踏板）<br>65 滑音（在音头前加入上或下滑音做装饰音）<br>66 持续音<br>67 弱音踏板<br>68 连滑音踏板控制器<br>69 保持音踏板2<br>70 变调<br>71 音色<br>72 放音时值<br>73 起音时值<br>74 亮音<br>75-79 声音控制<br>80-83 一般控制器（#5-#8）<br>84 连滑音控制<br>85-90 N/A<br>91 混响效果深度<br>92 （未定义的效果深度）<br>93 合唱效果深度<br>94 （未定义的效果深度）<br>95 移调器深度<br>96 数据累增<br>97 数据递减<br>98 未登记的低元组数值（NRPN LSB）<br>99 未登记的高元组数值（NRPN MSB）<br>100 已登记的低元组数值（RPN LSB）<br>101 已登记的高元组数值（RPN MSB）<br>102-119 N/A<br>120 关闭所有声音<br>121 关闭所有控制器<br>122 本地键盘开关<br>123 关闭所有音符<br>124 Omni模式关闭<br>125 Omni模式开启<br>126 单音模式<br>127 复音模式</p>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;MIDI控制器一览表&quot;&gt;&lt;a href=&quot;#MIDI控制器一览表&quot; class=&quot;headerlink&quot; title=&quot;MIDI控制器一览表&quot;&gt;&lt;/a&gt;MIDI控制器一览表&lt;/h2&gt;&lt;p&gt;0 音色库选择MSB&lt;/p&gt;
-&lt;p&gt;1 颤音深度（粗调）&lt;/p&gt;
+      &lt;p&gt;0 音色库选择MSB&lt;br&gt;1 颤音深度（粗调）&lt;br&gt;2 呼吸（吹管）控制器（粗调）&lt;br&gt;3 N/A&lt;br&gt;4 踏板控制器（粗调）&lt;br&gt;5 连滑音速度（粗调）&lt;/p&gt;
     
     </summary>
     
     
     
       <category term="MIDI" scheme="http://yoursite.com/tags/MIDI/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>About</title>
-    <link href="http://yoursite.com/2020/05/09/Who-Am-I/"/>
-    <id>http://yoursite.com/2020/05/09/Who-Am-I/</id>
-    <published>2020-05-09T00:48:54.000Z</published>
-    <updated>2020-05-12T10:19:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Chenming-Zhang"><a href="#Chenming-Zhang" class="headerlink" title="Chenming Zhang"></a>Chenming Zhang</h2><p>LECTURER. COMPOSER.MUSIC PRODUCER<br>Music College, Zhoukou Normal University<br>9 Wenchang Street Zhoukou, China Postcode-466001<br> Fax: (+86) 0394-8178000<br>Email <a href="mailto:zcm911597896@gmail.com">zcm911597896@gmail.com</a><br>      <a href="mailto:258939595@qq.com">258939595@qq.com</a><br>GITHUB <a href="https://github.com/vincentzcm" target="_blank" rel="noopener">https://github.com/vincentzcm</a><br>BLOG <a href="https://vincentzcm.github.io" target="_blank" rel="noopener">https://vincentzcm.github.io</a></p><hr><h2 id="EDUCATION"><a href="#EDUCATION" class="headerlink" title="EDUCATION"></a>EDUCATION</h2><p>2016-2013<br>Master of Music, Composition<br>Nanjing University of the Arts<br>Jianqin Feng Scholarship</p><p>2011-2013<br>Second Bachelor of English Language,<br>Literature Translation<br>Luoyang Normal University</p><p>2009-2013<br>First Bachelor of Music,Composition<br>Luoyang Normal University</p><p>2008-2011  College Degree, Music<br>Zhengzhou Vocational College of Information Technology</p><hr><h2 id="APPOINTMENTS"><a href="#APPOINTMENTS" class="headerlink" title="APPOINTMENTS"></a>APPOINTMENTS</h2><p>2017-current<br>Lecturer. Music College,Zhoukou Normal University<br>Office of Music Theory</p><p>2016-2017<br>Lecturer. Lijiang College, Guangxi Normal University<br>Office of Electronic Music</p><p>2013-2016<br>Assistant Researcher<br>Media Center of Nanjing University of the Arts</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;Chenming-Zhang&quot;&gt;&lt;a href=&quot;#Chenming-Zhang&quot; class=&quot;headerlink&quot; title=&quot;Chenming Zhang&quot;&gt;&lt;/a&gt;Chenming Zhang&lt;/h2&gt;&lt;p&gt;LECTURER. COMPOSER.MUS
-      
-    
-    </summary>
-    
-    
-    
-      <category term="about" scheme="http://yoursite.com/tags/about/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo Hello World</title>
-    <link href="http://yoursite.com/2020/05/09/hello-world/"/>
-    <id>http://yoursite.com/2020/05/09/hello-world/</id>
-    <published>2020-05-09T00:36:09.000Z</published>
-    <updated>2020-05-11T00:52:34.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check<br><a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems<br>when using Hexo, you can find the answer in<br><a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me<br>on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br><span class="line">~~~~~</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br><span class="line">~~~~~</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br><span class="line">~~~~~</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br><span class="line">~~~~~</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check&lt;br&gt;&lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems&lt;br&gt;when using Hexo, you can find the answer in&lt;br&gt;&lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me&lt;br&gt;on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="software" scheme="http://yoursite.com/tags/software/"/>
     
   </entry>
   
