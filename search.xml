@@ -4,7 +4,8 @@
     <title>8bit音乐噪音鼓</title>
     <url>/2020/05/13/8bit%E9%9F%B3%E4%B9%90%E5%99%AA%E9%9F%B3%E9%BC%93/</url>
     <content><![CDATA[<h2 id="音源选用"><a href="#音源选用" class="headerlink" title="音源选用"></a>音源选用</h2><p>》》》》》》 Chipsounds</p>
-<h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><p>音色 RP2A0X<br>S 0<br>D 5%</p>
+<h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><a id="more"></a>
+<p>音色 RP2A0X<br>S 0<br>D 5%</p>
 <p>Roland的中央C是C3,Yamaha的是C4</p>
 <p>Logic C0 ===FL C1  </p>
 <p>C0 = KICK G5 = HIHI open HIHI可在附近  snar =  c3</p>

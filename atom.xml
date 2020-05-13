@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-13T11:01:36.000Z</updated>
+  <updated>2020-05-13T11:08:04.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,14 @@
     <link href="http://yoursite.com/2020/05/13/8bit%E9%9F%B3%E4%B9%90%E5%99%AA%E9%9F%B3%E9%BC%93/"/>
     <id>http://yoursite.com/2020/05/13/8bit%E9%9F%B3%E4%B9%90%E5%99%AA%E9%9F%B3%E9%BC%93/</id>
     <published>2020-05-13T10:39:29.000Z</published>
-    <updated>2020-05-13T11:01:36.000Z</updated>
+    <updated>2020-05-13T11:08:04.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="音源选用"><a href="#音源选用" class="headerlink" title="音源选用"></a>音源选用</h2><p>》》》》》》 Chipsounds</p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><p>音色 RP2A0X<br>S 0<br>D 5%</p><p>Roland的中央C是C3,Yamaha的是C4</p><p>Logic C0 ===FL C1  </p><p>C0 = KICK G5 = HIHI open HIHI可在附近  snar =  c3</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="音源选用"><a href="#音源选用" class="headerlink" title="音源选用"></a>音源选用</h2><p>》》》》》》 Chipsounds</p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><a id="more"></a><p>音色 RP2A0X<br>S 0<br>D 5%</p><p>Roland的中央C是C3,Yamaha的是C4</p><p>Logic C0 ===FL C1  </p><p>C0 = KICK G5 = HIHI open HIHI可在附近  snar =  c3</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;音源选用&quot;&gt;&lt;a href=&quot;#音源选用&quot; class=&quot;headerlink&quot; title=&quot;音源选用&quot;&gt;&lt;/a&gt;音源选用&lt;/h2&gt;&lt;p&gt;》》》》》》 Chipsounds&lt;/p&gt;
-&lt;h2 id=&quot;参数&quot;&gt;&lt;a href=&quot;#参数&quot; class=&quot;headerl
-      
+      &lt;h2 id=&quot;音源选用&quot;&gt;&lt;a href=&quot;#音源选用&quot; class=&quot;headerlink&quot; title=&quot;音源选用&quot;&gt;&lt;/a&gt;音源选用&lt;/h2&gt;&lt;p&gt;》》》》》》 Chipsounds&lt;/p&gt;
+&lt;h2 id=&quot;参数&quot;&gt;&lt;a href=&quot;#参数&quot; class=&quot;headerlink&quot; title=&quot;参数&quot;&gt;&lt;/a&gt;参数&lt;/h2&gt;
     
     </summary>
     
