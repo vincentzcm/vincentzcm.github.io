@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-14T02:56:03.000Z</updated>
+  <updated>2020-05-14T03:35:30.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>8bit BASS</title>
+    <link href="http://yoursite.com/2020/05/14/8bit-BASS/"/>
+    <id>http://yoursite.com/2020/05/14/8bit-BASS/</id>
+    <published>2020-05-14T03:20:22.000Z</published>
+    <updated>2020-05-14T03:35:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Instrument: Chipsonds<br>Bank: RA03X </p><a id="more"></a><p>Sample: Triangle   这个音源里无法调节ADSR<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Instrument: Chipsonds&lt;br&gt;Bank: RA03X &lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="MIDI" scheme="http://yoursite.com/tags/MIDI/"/>
+    
+  </entry>
+  
+  <entry>
     <title>8bit音乐旋律</title>
     <link href="http://yoursite.com/2020/05/14/8bit%E9%9F%B3%E4%B9%90%E6%97%8B%E5%BE%8B/"/>
     <id>http://yoursite.com/2020/05/14/8bit%E9%9F%B3%E4%B9%90%E6%97%8B%E5%BE%8B/</id>
     <published>2020-05-14T02:34:36.000Z</published>
-    <updated>2020-05-14T02:56:03.000Z</updated>
+    <updated>2020-05-14T03:17:17.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Instrument: Chipsonds<br>Bank: RA03X<br>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p><p>旋律2<br>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值 旋律2偏暗一点<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p>]]></content>
+    <content type="html"><![CDATA[<p>Instrument: Chipsonds<br>Bank: RA03X </p><a id="more"></a><p>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p><p>旋律2<br>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值 旋律2偏暗一点<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Instrument: Chipsonds&lt;br&gt;Bank: RA03X&lt;br&gt;Sample: Pulse&lt;br&gt;Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值&lt;br&gt;D:20%-50% 值越小 越有跳跃性&lt;br&gt;S:0&lt;/p&gt;
-&lt;p&gt;旋律2&lt;br&gt;
-      
+      &lt;p&gt;Instrument: Chipsonds&lt;br&gt;Bank: RA03X &lt;/p&gt;
     
     </summary>
     
