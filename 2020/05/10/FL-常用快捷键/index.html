@@ -92,6 +92,23 @@
          document.oncopy=function(){
                 return false;
          }
+         document.onbeforecopy=function(){
+                return false;
+         }
+         document.onselect=function(){
+                return false;
+         }
+         document.onmouseup=function(){
+                return false;
+         }
+         document.oncontextmenu = function(){
+                return false
+         }
+         document.onmousedown=function(e){
+                if(e.which!=1){
+                      return false;
+                }
+         }
 
    </script>
 
