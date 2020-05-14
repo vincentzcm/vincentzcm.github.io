@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-13T11:08:04.000Z</updated>
+  <updated>2020-05-14T02:56:03.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>8bit音乐旋律</title>
+    <link href="http://yoursite.com/2020/05/14/8bit%E9%9F%B3%E4%B9%90%E6%97%8B%E5%BE%8B/"/>
+    <id>http://yoursite.com/2020/05/14/8bit%E9%9F%B3%E4%B9%90%E6%97%8B%E5%BE%8B/</id>
+    <published>2020-05-14T02:34:36.000Z</published>
+    <updated>2020-05-14T02:56:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Instrument: Chipsonds<br>Bank: RA03X<br>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p><p>旋律2<br>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值 旋律2偏暗一点<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Instrument: Chipsonds&lt;br&gt;Bank: RA03X&lt;br&gt;Sample: Pulse&lt;br&gt;Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值&lt;br&gt;D:20%-50% 值越小 越有跳跃性&lt;br&gt;S:0&lt;/p&gt;
+&lt;p&gt;旋律2&lt;br&gt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="MIDI" scheme="http://yoursite.com/tags/MIDI/"/>
+    
+  </entry>
+  
+  <entry>
     <title>8bit音乐噪音鼓</title>
     <link href="http://yoursite.com/2020/05/13/8bit%E9%9F%B3%E4%B9%90%E5%99%AA%E9%9F%B3%E9%BC%93/"/>
     <id>http://yoursite.com/2020/05/13/8bit%E9%9F%B3%E4%B9%90%E5%99%AA%E9%9F%B3%E9%BC%93/</id>
     <published>2020-05-13T10:39:29.000Z</published>
-    <updated>2020-05-13T11:08:04.000Z</updated>
+    <updated>2020-05-14T03:12:02.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="音源选用"><a href="#音源选用" class="headerlink" title="音源选用"></a>音源选用</h2><p>》》》》》》 Chipsounds</p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><a id="more"></a><p>音色 RP2A0X<br>S 0<br>D 5%</p><p>Roland的中央C是C3,Yamaha的是C4</p><p>Logic C0 ===FL C1  </p><p>C0 = KICK G5 = HIHI open HIHI可在附近  snar =  c3</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="音源选用"><a href="#音源选用" class="headerlink" title="音源选用"></a>音源选用</h2><p>》》》》》》 Chipsounds</p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><a id="more"></a><p>Bank RP2A0X<br>S 0<br>D 5%</p><p>Roland的中央C是C4,Yamaha的是C3</p><p>Logic C0 === FL C1  </p><p>C0 = KICK G5 = HIHI open HIHI可在附近  snar =  c3</p>]]></content>
     
     <summary type="html">
     
