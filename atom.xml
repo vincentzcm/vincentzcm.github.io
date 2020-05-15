@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-14T03:35:30.000Z</updated>
+  <updated>2020-05-15T01:57:27.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,44 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>8bit BASS</title>
-    <link href="http://yoursite.com/2020/05/14/8bit-BASS/"/>
-    <id>http://yoursite.com/2020/05/14/8bit-BASS/</id>
-    <published>2020-05-14T03:20:22.000Z</published>
-    <updated>2020-05-14T03:35:30.000Z</updated>
+    <title>如何用单支话筒录制原声吉他</title>
+    <link href="http://yoursite.com/2020/05/15/%E5%A6%82%E4%BD%95%E7%94%A8%E5%8D%95%E6%94%AF%E8%AF%9D%E7%AD%92%E5%BD%95%E5%88%B6%E5%8E%9F%E5%A3%B0%E5%90%89%E4%BB%96/"/>
+    <id>http://yoursite.com/2020/05/15/%E5%A6%82%E4%BD%95%E7%94%A8%E5%8D%95%E6%94%AF%E8%AF%9D%E7%AD%92%E5%BD%95%E5%88%B6%E5%8E%9F%E5%A3%B0%E5%90%89%E4%BB%96/</id>
+    <published>2020-05-15T01:47:11.000Z</published>
+    <updated>2020-05-15T01:57:27.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Instrument: Chipsonds<br>Bank: RA03X </p><a id="more"></a><p>Sample: Triangle   这个音源里无法调节ADSR<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p>]]></content>
+    <content type="html"><![CDATA[<p>准备工作<br>新的琴弦  调音  找一个合适的录音环境  洗手间？ 客厅？</p><a id="more"></a><p>话筒放哪里？<br>– 放在12品位置 – 30厘米 – 话筒面朝向演奏者右手 –</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Instrument: Chipsonds&lt;br&gt;Bank: RA03X &lt;/p&gt;
+      &lt;p&gt;准备工作&lt;br&gt;新的琴弦  调音  找一个合适的录音环境  洗手间？ 客厅？&lt;/p&gt;
     
     </summary>
     
     
     
-      <category term="MIDI" scheme="http://yoursite.com/tags/MIDI/"/>
+      <category term="录音技术" scheme="http://yoursite.com/tags/%E5%BD%95%E9%9F%B3%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
-    <title>8bit音乐旋律</title>
-    <link href="http://yoursite.com/2020/05/14/8bit%E9%9F%B3%E4%B9%90%E6%97%8B%E5%BE%8B/"/>
-    <id>http://yoursite.com/2020/05/14/8bit%E9%9F%B3%E4%B9%90%E6%97%8B%E5%BE%8B/</id>
-    <published>2020-05-14T02:34:36.000Z</published>
-    <updated>2020-05-14T03:17:17.000Z</updated>
+    <title>在家庭录音室中录制人声</title>
+    <link href="http://yoursite.com/2020/05/15/%E5%9C%A8%E5%AE%B6%E5%BA%AD%E5%BD%95%E9%9F%B3%E5%AE%A4%E4%B8%AD%E5%BD%95%E5%88%B6%E4%BA%BA%E5%A3%B0/"/>
+    <id>http://yoursite.com/2020/05/15/%E5%9C%A8%E5%AE%B6%E5%BA%AD%E5%BD%95%E9%9F%B3%E5%AE%A4%E4%B8%AD%E5%BD%95%E5%88%B6%E4%BA%BA%E5%A3%B0/</id>
+    <published>2020-05-15T00:36:56.000Z</published>
+    <updated>2020-05-15T01:53:38.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Instrument: Chipsonds<br>Bank: RA03X </p><a id="more"></a><p>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p><p>旋律2<br>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值 旋律2偏暗一点<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p>]]></content>
+    <content type="html"><![CDATA[<p>录音的准备工具: 麦克风   麦克风架子   防喷罩   封闭式耳机</p><a id="more"></a><p>![] 需要一个安静的房间 洗手间 混响比较大   起居室 混响比较小<br>![] 麦克风不要摆在墙角 — 也不要放在屋子的正中间 —-<br>                    — 话筒架 放在偏离中心点的位置 —-<br>                    — 话筒对准歌手嘴巴 —<br>                    — 8-12英尺 20-30厘米 —<br>                    — 调整防喷罩 不要与话筒平行 —<br>                    — 确保话筒后没有任何东西 —<br>                    — 歌词架放在话筒的后下放 — 话筒倒置放 —<br>                    — 耳机不要放在话筒架上 —<br>                    — 歌手觉得声音小 让她/他去调整自己的耳机增益 —</p><p>![] 古典音乐乐器录音一般会采用小振膜话筒 因为可以精确还原声场中效果<br>![] 人声用大震膜话筒</p><p>TLM103<br><a href="https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/3032182280/O1CN0100Uoxw1SiHd1backQ_!!3032182280.jpg_460x460Q90.jpg_.webp" target="_blank" rel="noopener">https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/3032182280/O1CN0100Uoxw1SiHd1backQ_!!3032182280.jpg_460x460Q90.jpg_.webp</a></p><p>TLM102 </p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Instrument: Chipsonds&lt;br&gt;Bank: RA03X &lt;/p&gt;
+      &lt;p&gt;录音的准备工具: 麦克风   麦克风架子   防喷罩   封闭式耳机&lt;/p&gt;
     
     </summary>
     
     
     
-      <category term="MIDI" scheme="http://yoursite.com/tags/MIDI/"/>
+      <category term="录音技术" scheme="http://yoursite.com/tags/%E5%BD%95%E9%9F%B3%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
@@ -63,9 +63,9 @@
     <link href="http://yoursite.com/2020/05/13/8bit%E9%9F%B3%E4%B9%90%E5%99%AA%E9%9F%B3%E9%BC%93/"/>
     <id>http://yoursite.com/2020/05/13/8bit%E9%9F%B3%E4%B9%90%E5%99%AA%E9%9F%B3%E9%BC%93/</id>
     <published>2020-05-13T10:39:29.000Z</published>
-    <updated>2020-05-14T03:12:02.000Z</updated>
+    <updated>2020-05-15T01:55:08.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="音源选用"><a href="#音源选用" class="headerlink" title="音源选用"></a>音源选用</h2><p>》》》》》》 Chipsounds</p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><a id="more"></a><p>Bank RP2A0X<br>S 0<br>D 5%</p><p>Roland的中央C是C4,Yamaha的是C3</p><p>Logic C0 === FL C1  </p><p>C0 = KICK G5 = HIHI open HIHI可在附近  snar =  c3</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="音源选用"><a href="#音源选用" class="headerlink" title="音源选用"></a>音源选用</h2><p>》》》》》》 Chipsounds</p><h2 id="参数"><a href="#参数" class="headerlink" title="参数"></a>参数</h2><a id="more"></a><p>Bank RP2A0X<br>S 0<br>D 5%</p><p>Roland的中央C是C4,Yamaha的是C3</p><p>Logic C0 === FL C1  </p><p>C0 = KICK G5 = HIHI open HIHI可在附近  snar =  c3</p><p>BASS</p><p>Sample: Triangle   这个音源里无法调节ADSR<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p><p>旋律1</p><p>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p><p>旋律2<br>Sample: Pulse<br>Width: 数值越大 震荡间隔越大 如果你想让声音亮一点 选择小数值 旋律2偏暗一点<br>D:20%-50% 值越小 越有跳跃性<br>S:0</p>]]></content>
     
     <summary type="html">
     
@@ -191,7 +191,7 @@
     <link href="http://yoursite.com/2020/05/10/FL-%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
     <id>http://yoursite.com/2020/05/10/FL-%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
     <published>2020-05-10T06:51:16.000Z</published>
-    <updated>2020-05-11T01:03:01.000Z</updated>
+    <updated>2020-05-15T01:57:19.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>FL步进器中双击全选<br>alt+点击 回到原始位置<br>ctrl+推动 微调<br>钢琴窗中按住ALT键可以匡选<br>按住contral再按键盘就可以选择所有的某个音<br>框选并按住shift移动可以整体复制框选内容<br>按住shift键加上下可以半音上下移动<br>按住contral加上下 可以上下移动8度<br>alt键自由在钢琴窗中调节长度</p><a id="more"></a>]]></content>
     
