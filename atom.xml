@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-22T13:46:56.000Z</updated>
+  <updated>2024-01-12T01:28:46.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Pitch-class Sets Calculator</title>
+    <link href="http://yoursite.com/2024/01/12/Pitch-class%20Sets%20Calculator/"/>
+    <id>http://yoursite.com/2024/01/12/Pitch-class%20Sets%20Calculator/</id>
+    <published>2024-01-12T00:01:18.000Z</published>
+    <updated>2024-01-12T01:28:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>🌟 Explore New Horizons in Music Theory! 🎶 The “Pitch-class Sets Calculator” is the ideal tool for composers and music theorists alike. Whether you’re a music student, a professional composer, or a music theory enthusiast, this app will assist you in deepening your understanding and analysis of pitch-class sets.</p><p>🔍 Key Features:</p><pre><code>Advanced Pitch-class Analysis: Easily input pitches and automatically calculate and display the corresponding pitch-class sets.Interval and Harmony Analysis: Detailed analysis of interval relationships, revealing the inner logic of harmonic structures.Series and Transformation Tools: Explore the serialization and transformation possibilities of pitch-class sets, expanding your horizons in musical composition.Interactive Learning Mode: Deepen your understanding of pitch-class set theory with interactive tutorials and examples.Customized Experience: Personalize settings to tailor the app to your learning and creative needs.</code></pre><p>🚀 With the “Pitch-class Sets Calculator”, you can:</p><pre><code>Analyze the pitch structure of classic and modern musical works.Quickly generate and test complex combinations of pitch-class sets.Expand your skills and knowledge in music composition and analysis.</code></pre><p>🌐 No matter where you are in your musical journey, the “Pitch-class Sets Calculator” will be an indispensable assistant. Download now and embark on your journey of musical theory exploration!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;🌟 Explore New Horizons in Music Theory! 🎶 The “Pitch-class Sets Calculator” is the ideal tool for composers and music theorists alike. 
+      
+    
+    </summary>
+    
+    
+    
+      <category term="software" scheme="http://yoursite.com/tags/software/"/>
+    
+  </entry>
   
   <entry>
     <title>Extension and Recombination of the Messiaen Limited Transpositions Modes with The Interval Cycles Technique</title>
